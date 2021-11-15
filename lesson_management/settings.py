@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'core.apps.CoreConfig',
     'student.apps.StudentConfig',
     'teacher.apps.TeacherConfig',
+    'lesson.apps.LessonConfig',
+    'role.apps.RoleConfig',
 ]
 
 MIDDLEWARE = [
